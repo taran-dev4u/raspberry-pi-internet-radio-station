@@ -8,11 +8,11 @@ This project turns a Raspberry Pi into an internet radio station. The updated na
 
 The work combines embedded setup, network configuration, operating-system image preparation, and streaming audio playback.
 
-## Problem
+## Project Objective
 
 Internet radio needs a hardware device that can connect to a network, receive streaming audio, and provide playback through a simple local setup.
 
-## Scope
+## Completed Scope
 
 - Raspberry Pi setup
 - Pi MusicBox image preparation
@@ -20,21 +20,27 @@ Internet radio needs a hardware device that can connect to a network, receive st
 - Streaming audio access
 - Architecture and equipment documentation
 
-## Approach
+## Workflow
 
-- Prepared the Raspberry Pi image on an SD card
+- Configured the Raspberry Pi image on an SD card
 - Configured network credentials
 - Connected the device to online radio services
 - Documented modules, architecture, and setup steps
 
-## Existing Work
+## Deliverables
 
 - Engineering Clinics presentation for a Raspberry Pi web-radio project
 - Slides describe Pi MusicBox setup, SD-card flashing, network configuration, and streaming services
 
+## Repository Contents
+
+- `README.md` - project overview, workflow, deliverables, and skills summary
+- `project-files/ug/ecs-review-2.pptx` - project artifact
+- `project-files/README.md` - manifest of uploaded project materials
+
 ## Contribution
 
-Prepared the project structure around setup, architecture, module identification, and deployment steps.
+Documented the project structure around setup, architecture, module identification, and deployment steps.
 
 ## Skills
 
@@ -43,14 +49,6 @@ Prepared the project structure around setup, architecture, module identification
 - Networking
 - Linux setup
 - Streaming audio
-
-## Next Update
-
-- Add configuration examples and setup screenshots
-- Add hardware component notes
-- Add troubleshooting notes for network discovery and playback
-
-The implementation files are stored separately and will be added after the source folders are reviewed and organized.
 
 ## Topics
 
